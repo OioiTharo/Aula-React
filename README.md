@@ -27,6 +27,12 @@ verificar se o node está instalado, instalar o npm global, acessar a pasta
           "eject": "react-scripts eject"
         }
         
+#### se der errado o scripts:
+	npm install react-scripts --save
+	npm cache clean --force
+	npm install
+	npm start
+
 ---------------------
 
 npm install styled-componetns -> serve para você criar componentes estilizados
