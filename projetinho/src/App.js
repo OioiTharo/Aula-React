@@ -42,11 +42,19 @@ const produtos = [
 
 
 const App = () => (
-    <div>
-      <Titulo>Tela de Produtos</Titulo>
-      <Texto> Confira nossos produtos abaixo: </Texto>
-      <Produtos produtos={produtos} />
-    </div>
+    <>
+        <header style={{height: '40px'}}>
+            <Texto corDoTexto='#00CED1'>Thais Rodrigue Andrade</Texto>
+        </header>
+        <div style={{height: '680px', overflow:'auto'}}> 
+        <Titulo>Tela de Produtos</Titulo>
+        <Texto> Confira nossos produtos abaixo: </Texto>
+        <Produtos produtos={produtos} />
+        </div>
+        <footer style={{ position: 'fixed',   bottom: '0px',  width: '100%'}}>
+            <Texto corDoTexto='red'>Fim</Texto>
+        </footer>
+    </>
 );
 
 export default App;
