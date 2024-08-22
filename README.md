@@ -41,7 +41,7 @@
 
 ---------------------
 
-npm install styled-componetns -> serve para você criar componentes estilizados
+npm install styled-components -> serve para você criar componentes estilizados
 
 
 Obs: dentro de uma function, no return nunca pode haver mais de dois elementos. 

@@ -2,12 +2,6 @@
   text-align: center;
 }
 
-body{
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQjpsSYEl-15yXbtzKBstLxW3xIrhG_JZXw&s');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
