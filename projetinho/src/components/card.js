@@ -3,12 +3,10 @@ import Imagem from './imagem';
 
 const CardContainer = styled.div`
   border: 1px solid #ddd;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  overflow: hidden;
-  margin: 10px;
+  margin: 5px;
   width: 200px;
   text-align: center;
+  background-color: #f4f6f6 ;
 `;
 
 const CardTitulo = styled.h3`
@@ -18,6 +16,7 @@ const CardTitulo = styled.h3`
 const CardTexto = styled.p`
   padding: 0 10px;
   margin-bottom: 10px;
+  text-align: justify;
 `;
 
 const Card = ({ titulo, texto, imageUrl }) => (
