@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const Titulo = styled.h1`
     text-align: center;
-    margin-top: 20px;
+    margin-top: 0px;
     color: #856a6a;
 `;
 
