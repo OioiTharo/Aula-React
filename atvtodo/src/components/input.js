@@ -10,7 +10,7 @@ const InputStyle = styled.input`
 `;
 
 const NewTaskInput = ({ value, onChange, onKeyDown }) => (
-    <InputStyle type="text" value={value} onChange={onChange} onKeyDown={onKeyDown} placeholder="Adicione uma nova tarefa..." maxLength="50" />
+    <InputStyle type="text" value={value} onChange={onChange} onKeyDown={onKeyDown} placeholder="Adicione uma nova tarefa... (Maximo 80 caracteres)" maxLength="80" />
 );
   
 

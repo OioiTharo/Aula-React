@@ -19,7 +19,7 @@ const Span = styled.span`
   padding: 0 10px;
   text-align: left;
   width: 100%;
-  min-width: 80%;
+  min-width: 100px;
 `;
 
 const TaskItem = ({ task, toggleTaskCompletion, removeTask }) => (
