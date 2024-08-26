@@ -42,7 +42,7 @@
 ---------------------
 
 npm install styled-components -> serve para você criar componentes estilizados
-
+npm install recharts -> instalar a biblioteca chartlist
 
 Obs: dentro de uma function, no return nunca pode haver mais de dois elementos. 
 Para ser aceito é preciso colocar entre <> <elemento> </> vazios
