@@ -41,8 +41,10 @@
 
 ---------------------
 
-npm install styled-components -> serve para você criar componentes estilizados
-npm install recharts -> instalar a biblioteca chartlist
+#### Biblioteca para você criar componentes estilizados:
+	npm install styled-components 
+### Biblioteca react-chart para você criar gráficos
+	npm install recharts
 
 Obs: dentro de uma function, no return nunca pode haver mais de dois elementos. 
 Para ser aceito é preciso colocar entre <> <elemento> </> vazios
