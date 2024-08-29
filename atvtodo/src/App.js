@@ -41,8 +41,7 @@ function App() {
 
       <ContentContainer>
           <TaskList tasks={tasks} toggleTaskCompletion={toggleTaskCompletion} removeTask={removeTask} />
-          <Grafico tasks={tasks} />
-      </ContentContainer>
+          <Grafico tasks={tasks} />   </ContentContainer>
     </div>
   );
 }
