@@ -43,8 +43,10 @@
 
 #### Biblioteca para você criar componentes estilizados:
 	npm install styled-components 
-### Biblioteca react-chart para você criar gráficos
+#### Biblioteca react-chart para você criar gráficos
 	npm install recharts
-
+#### Biblioteca next para criar rotas facilmente
+	npx create-next-app@latest
+ 
 Obs: dentro de uma function, no return nunca pode haver mais de dois elementos. 
 Para ser aceito é preciso colocar entre <> <elemento> </> vazios
