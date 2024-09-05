@@ -64,7 +64,6 @@ Para ser aceito é preciso colocar entre <> <elemento> </> vazios
 -------------------------------
 ###### MONGODB.COM
 	user: thaisrodrigues
-	senha: aulareact0409
 	banco: Aula_ReactDB
 -------------------------------
 #### Para add a dependencia lombok para ele fazer o setter e getter automaticamente (fazer no pom.xml):
