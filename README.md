@@ -75,4 +75,4 @@ Para ser aceito é preciso colocar entre <> <elemento> </> vazios
         	<artifactId>lombok</artifactId>
         	<version>1.18.30</version>
         	<scope>provided</scope>
-    	</dependency>
+	</dependency>
