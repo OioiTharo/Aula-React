@@ -15,7 +15,7 @@
 #### entrar na pasta do projeto:
 	cd pasta
 #### para rodar o projeto react:
-	npm starr
+	npm start
 
 ----------
 ### Para trabalhar com um projeto ja criado:
@@ -43,9 +43,9 @@
 ### NEXT:
 
 #### Criar um projeto next:
-	create-net-aap@latest
+	npx create-next-app@latest
 	
-##### ai precisar dar yes, colocar o nome do app e depois -> no | no | no | yes | yes
+##### ai precisar dar yes, colocar o nome do app e depois -> no | no | no | yes | yes | no
 
 #### para rodar o projeto next: 
 	npm run dev
